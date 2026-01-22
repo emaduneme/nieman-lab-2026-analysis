@@ -14,7 +14,6 @@ This project analyzes 100 predictions from journalism experts using natural lang
 
 - **Text Analysis:** TF-IDF vectorization
 - **Clustering:** K-Means (k=4)
-- **Visualization:** PCA dimensionality reduction
 
 ## Results
 
