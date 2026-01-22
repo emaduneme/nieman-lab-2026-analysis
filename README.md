@@ -6,7 +6,7 @@
 
 This project analyzes 100 predictions from journalism experts using natural language processing to identify thematic clusters and determine whether the industry sees its future through a technological or humanistic lens.
 
-**Key Finding:** Only 26% of predictions emphasize AI & technology. The remaining 74% focus on human relationships, business models, and institutional concerns — suggesting experts see journalism's future as primarily a **human challenge**, not a technological one.
+**Key Finding:** Only 26% of predictions emphasize AI & technology. The remaining 74% focus on human relationships, business models, and institutional concerns. This suggests experts see journalism's future as primarily a **human challenge**, not a technological one.
 
 ## Method
 
