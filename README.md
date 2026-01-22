@@ -2,7 +2,7 @@
 
 ![Niemanlab2026 homepage](output/niemanlab_2026_image.png)
 
-**Research Question:** How do journalism experts frame the industry's future in the 2026 NiemanLab Predictions?
+**Research Question:** How did journalism experts frame the industry's future in the 2026 NiemanLab Predictions?
 
 ## Overview
 
