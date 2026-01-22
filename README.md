@@ -1,6 +1,6 @@
 # NiemanLab 2026 Predictions: Cluster Analysis
 
-
+![Niemanlab2026 homepage](output/niemanlab_2026_image.png)
 
 **Research Question:** How do journalism experts frame the industry's future in the 2026 NiemanLab Predictions?
 
