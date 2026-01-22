@@ -25,6 +25,17 @@ Four thematic clusters emerged:
 | **Business & Infrastructure** | 18% | Economics | models, business, work, infrastructure |
 | **Institutional & Civic** | 23% | Organizations | news, organizations, community |
 
+## Clusters visualized
+![Figure of the 4 main clusters based on the tf-idf analysis](output/cluster_keywords.png)
+
+
+## Implications for Journalism in 2026 
+The expert predictions mostly view the industry's future as primarily people-centered, but this doesn't diminish technology's role. Rather, it suggests a fundamental reframing; AI and digital tools are enablers, not replacements for human judgment and community connection.
+The findings imply that while people remain at the forefront of journalism—building trust, fostering relationships, and exercising editorial judgment, technology will serve as critical infrastructure supporting these human-centered goals. AI might automate fact-checking or data analysis, but the expertise, empathy, and community engagement that define quality journalism remain distinctly human.
+
+This perspective challenges the techno-deterministic narrative that has come to dominate media discourse. Instead of asking "How will AI replace journalists?",
+industry leaders are asking "How can AI empower journalists to do more meaningful work?" The future they envision isn't humans versus machines but humans equipped with better tools to serve their communities more effectively.
+
 ## Quick Start
 
 ```bash
