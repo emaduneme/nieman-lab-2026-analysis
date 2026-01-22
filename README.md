@@ -1,6 +1,6 @@
 # Nieman Lab 2026 Predictions: Cluster Analysis
 
-**Research Question:** How do journalism experts frame the industry's future — as a technological challenge or a human/community challenge?
+**Research Question:** How do journalism experts frame the industry's future in the 2026 Nieman Lab Predictions?
 
 ## Overview
 
@@ -45,9 +45,9 @@ All visualizations and data exports are saved to `output/`:
 
 ## Data Source
 
-Predictions from **Nieman Lab's "Predictions for Journalism 2026"**, compiled by **Nick Hagar** (Postdoc, Northwestern University) via Google NotebookLM.
+Predictions from **Nieman Lab's "Predictions for Journalism 2026"**, compiled by **[Nick Hagar](https://www.linkedin.com/in/nicholashagar/)** (Postdoc, Northwestern University) via [Google NotebookLM](https://lnkd.in/g9zy3Yip).
 
-**Dataset:** 100 expert predictions analyzed
+**Dataset:** Only 100 expert predictions analyzed out of 210
 
 ## Technologies
 
