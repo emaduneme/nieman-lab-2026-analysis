@@ -1,0 +1,43 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
+.jupyter/
+.virtual_documents/
+**/.virtual_documents/
+
+# macOS
+.DS_Store
+**/.DS_Store
+*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+*.log
+.pytest_cache/
+
+# Internal documentation (keep local, don't publish)
+CODE_REVIEW_FINDINGS.md
+RESEARCH_QUESTION_ANALYSIS.md
