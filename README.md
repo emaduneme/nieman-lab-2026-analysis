@@ -1,6 +1,8 @@
-# Nieman Lab 2026 Predictions: Cluster Analysis
+# NiemanLab 2026 Predictions: Cluster Analysis
 
-**Research Question:** How do journalism experts frame the industry's future in the 2026 Nieman Lab Predictions?
+
+
+**Research Question:** How do journalism experts frame the industry's future in the 2026 NiemanLab Predictions?
 
 ## Overview
 
@@ -56,7 +58,7 @@ All visualizations and data exports are saved to `output/`:
 
 ## Data Source
 
-Predictions from **Nieman Lab's "Predictions for Journalism 2026"**, compiled by **[Nick Hagar](https://www.linkedin.com/in/nicholashagar/)** (Postdoc, Northwestern University) via [Google NotebookLM](https://lnkd.in/g9zy3Yip).
+Predictions from **NiemanLab's "Predictions for Journalism 2026"**, compiled by **[Nick Hagar](https://www.linkedin.com/in/nicholashagar/)** (Postdoc, Northwestern University) via [Google NotebookLM](https://lnkd.in/g9zy3Yip).
 
 **Dataset:** Only 100 expert predictions analyzed out of 210
 
